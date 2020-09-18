@@ -1,0 +1,26 @@
+{
+  "name": "game",
+  "version": "1.0.0",
+  "description": "\"Browser\"",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server src",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nionka/ajs-modules_ESM.git"
+  },
+  "keywords": [
+    "game"
+  ],
+  "author": "Olga",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nionka/ajs-modules_ESM/issues"
+  },
+  "homepage": "https://github.com/nionka/ajs-modules_ESM#readme",
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
